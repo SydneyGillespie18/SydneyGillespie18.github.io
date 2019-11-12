@@ -1,0 +1,15 @@
+H1 {font-size: 250%;
+	font-weight: bold;
+	color: blue}
+
+h2 {color: purple; font-size: 22pt;}
+
+body { 	background: aliceblue;
+		color: indigo;
+   	    font-size: 14pt;
+       	font-family: 'McLaren'; 
+ 		}
+a:hover { color: blue }
+
+work p  { color: blue }
+
